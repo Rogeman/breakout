@@ -13,6 +13,8 @@
     so by inheriting from this base state, our State classes will all have
     at least empty versions of these methods even if we don't define them
     ourselves in the actual classes.
+
+    ejem
 ]]
 
 BaseState = Class{}

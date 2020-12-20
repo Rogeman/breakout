@@ -23,8 +23,7 @@
     http://freesound.org/people/joshuaempyre/sounds/251461/
     http://www.soundcloud.com/empyreanma
 
-    roge was here
-    roge was here2
+    
 ]]
 
 require 'src/Dependencies'

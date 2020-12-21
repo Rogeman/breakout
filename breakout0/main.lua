@@ -23,6 +23,10 @@
     http://freesound.org/people/joshuaempyre/sounds/251461/
     http://www.soundcloud.com/empyreanma
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 284357be3bdc71ad056173bac7fb61e4aec8be53
 ]]
 
 require 'src/Dependencies'
